@@ -1,0 +1,47 @@
+.download {
+    height: 1150px;
+}
+
+.download__content {
+    display: flex;
+}
+
+.download__card {
+    padding-left: 119px;
+    padding-top: 401px;
+    width: 629px;
+}
+
+.download__title {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    color: #000;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 0.72;
+    letter-spacing: 2.88px;
+}
+
+.download__text {
+    margin-top: 41px;
+    display: flex;
+    flex-direction: column;
+    color: #7C7C7C;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.45;
+    letter-spacing: -0.96px;
+}
+
+.download__images {
+    margin-top: 65px;
+    display: flex;
+    gap: 19px;
+}
+
+.download__image {
+    margin-top: 120px;
+    margin-left: 305px;
+    width: 671px;
+}
